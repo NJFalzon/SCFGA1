@@ -58,8 +58,9 @@
     <Compile Include="Assets\Script\GridGenerator.cs" />
     <Compile Include="Assets\Script\agentScript.cs" />
     <Compile Include="Assets\Script\exerciseScript.cs" />
+    <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\customAIMoveScript.cs" />
-    <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\Script\Task1Script.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
